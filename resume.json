@@ -41,6 +41,9 @@
         "Strong background in JavaScript using the following frameworks AngularJs, NodeJs, ExpressJs, Bootstrap",
         "Implemented the conversion of legacy applications to Angular driven SPA",
         "Conducted several Angular and NodeJs bootcamps for junior developers. Prefer to show others how rather than telling them to figure it out.",
+        "Provided boilerplate Node.Js project that stood as the foundation for all new development",
+        "Introduced html and css precompilers to improve both quality and remove bloat",
+        "Wrapped development build process and deploys into a pretty little bow with Grunt/Gulp",
         "Responsible for rapid proof of concept and prototyping of mocks for Product evaluation",
         "DRY code evangelist",
         "Directed a geographically dispersed team of web developers",
@@ -49,10 +52,7 @@
         "Interface with graphic designers and developers to streamline work and ensure delivery of design vision",
         "Establish design and usability patterns for team",
         "Address usability concerns early on in SDLC",
-        "Provided boilerplate Node.Js project that stood as the foundation for all new development",
         "Led the charge (and won the war) for the strict support of evergreen browsers only",
-        "Wrapped development build process and deploys into a pretty little bow with Grunt/Gulp",
-        "Introduced html and css precompilers to improve both quality and remove bloat",
         "Successfully delivered 3 core application redesigns with micro teams and equivalently small timelines"
       ]
     },
@@ -114,17 +114,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "JavaScript",
-      "level": "Expert",
-      "keywords": [
-        "Bower",
-        "Yeoman",
-        "AMD",
-        "jQuery",
-        "VanillaJs"
-      ]
-    },
     {
       "name": "AngularJs",
       "level": "Expert",
@@ -188,6 +177,8 @@
       "keywords": [
         "Grunt",
         "Gulp",
+        "Bower",
+        "Yeoman",
         "Html to Js templating",
         "CSS/Html Minification"
       ]
