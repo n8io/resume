@@ -134,7 +134,8 @@
       "keywords": [
         "Express 3.x/4.x",
         "MEAN",
-        "npm"
+        "npm",
+        "Bunyan"
       ]
     },
     {
