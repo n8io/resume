@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nate Clark",
-    "label": "Full-stack JavaScript Engineer",
+    "label": "Full-stack JavaScript Jedi",
     "picture": "https://www.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=108&r=PG&d=https:%2f%2fcdn-careers.sstatic.net%2fcareers%2fImg%2fdefault-user-gravatar-large.png%3fv%3d4c7dc2ac35fe",
     "email": "n8@n8io.com",
     "phone": "",
@@ -74,13 +74,27 @@
       "company": "OEConnection",
       "position": "Database Developer",
       "website": "http://oeconnection.com",
-      "startDate": "2005-09-01",
+      "startDate": "2006-07-01",
       "endDate": "2008-09-01",
       "summary": "Database development including scripting, stored procedure generation, data structure creation and optimization.",
       "highlights": [
         "Optimizing/creating the CRUD procedures for service developers",
         "Providing a tsql style guide and enforced the use of it",
         "Introduced patterns and practices that saved DBAs time and effort during deployments"
+      ]
+    },
+    {
+      "company": "Healthcare Consulting Benefits Review",
+      "position": "VB.Net and MSSQL Developer",
+      "website": "http://xerox.com",
+      "startDate": "2004-09-01",
+      "endDate": "2006-07-01",
+      "summary": "Small insurance consulting company DBA and WinForms developer.",
+      "highlights": [
+        "Responsible for audit platform that lead to the being company purchased by Xerox in 2006",
+        "Data-mined and queried large data sets to find financial loss patterns",
+        "Coupled database work with a WinForm application to visually display points of interest",
+        "Integrated SSRS (SQL Server Reporting Services)"
       ]
     }
   ],
@@ -99,6 +113,13 @@
   "awards": [],
   "publications": [
     {
+      "name": "fantasydata-api",
+      "publisher": "NPM",
+      "releaseDate": "2014-08-01",
+      "website": "https://www.npmjs.com/package/fantasydata-api",
+      "summary": "A clean and complete nodejs wrapper for the FantasyData.com api"
+    },
+    {
       "name": "Public Repositories",
       "publisher": "Github",
       "releaseDate": "2012-07-31",
@@ -116,7 +137,7 @@
   "skills": [
     {
       "name": "AngularJs",
-      "level": "Expert",
+      "level": "Master",
       "keywords": [
         "SPA",
         "ui-router",
@@ -130,9 +151,9 @@
     },
     {
       "name": "NodeJs",
-      "level": "Expert",
+      "level": "Master",
       "keywords": [
-        "Express 3.x/4.x",
+        "ExpressJs 3.x/4.x",
         "MEAN",
         "npm",
         "Bunyan"
@@ -140,8 +161,7 @@
     },
     {
       "name": "RESTful services",
-      "level": "Expert",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "JSON",
         "Swagger",
@@ -153,14 +173,26 @@
       ]
     },
     {
+      "name": "I <3 these Js libraries",
+      "level": "Master",
+      "level": "",
+      "keywords": [
+        "lodash",
+        "async",
+        "moment",
+        "hammer",
+        "highcharts"
+      ]
+    },
+    {
       "name": "Databases",
       "level": "Expert",
       "level": "",
       "keywords": [
         "MSSQL",
-        "MongoDb",
+        "MongoDB",
         "Redis",
-        "RethinkDb",
+        "RethinkDB",
         "Firebase"
       ]
     },
@@ -169,9 +201,14 @@
       "level": "Expert",
       "level": "",
       "keywords": [
+        "RWD",
         "Jade",
         "Dust",
-        "Semantic driven"
+        "Semantic driven",
+        "i18n",
+        "SEO",
+        "CDN",
+        "OpenGraph"
       ]
     },
     {
@@ -195,8 +232,7 @@
         "Gulp",
         "Bower",
         "Yeoman",
-        "Html to Js templating",
-        "CSS/Html Minification"
+        "Statics/CSS/Html Minification"
       ]
     },
     {
@@ -228,12 +264,14 @@
       ]
     },
     {
-      "name": "Continued education",
+      "name": "What is Nate learning right now?",
       "keywords": [
         "AngularJs 2.0",
         "React",
         "Docker",
-        "Ansible"
+        "Ansible",
+        "Pusher",
+        "Snap.svg"
       ]
     },
     {
