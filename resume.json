@@ -1,0 +1,242 @@
+{
+  "basics": {
+    "name": "Nate Clark",
+    "label": "Full-stack JavaScript Engineer",
+    "picture": "https://www.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=108&r=PG&d=https:%2f%2fcdn-careers.sstatic.net%2fcareers%2fImg%2fdefault-user-gravatar-large.png%3fv%3d4c7dc2ac35fe",
+    "email": "n8@n8io.com",
+    "phone": "",
+    "website": "n8io.com",
+    "website": "",
+    "summary": "A full-stack JavaScript developer/mentor with more than 10 years experience building scalable web applications.",
+    "location": {
+      "address": "3670 White Oak Dr.",
+      "address": "",
+      "postalCode": "44203",
+      "postalCode": "",
+      "city": "Norton",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "n8io",
+        "url": "http://github.com/n8io"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Nate Clark",
+        "url": "https://www.linkedin.com/in/n8clark"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IgnitionOne",
+      "position": "UX Architect & JavaScript Player/Coach",
+      "website": "http://ignitionone.com",
+      "startDate": "2010-10-01",
+      "summary": "Responsible for several micro teams, leading the development of multiple Angular / NodeJs driven applications.",
+      "highlights": [
+        "Strong background in JavaScript using the following frameworks AngularJs, NodeJs, ExpressJs, Bootstrap",
+        "Implemented the conversion of legacy applications to Angular driven SPA",
+        "Conducted several Angular and NodeJs bootcamps for junior developers. Prefer to show others how rather than telling them to figure it out.",
+        "Responsible for rapid proof of concept and prototyping of mocks for Product evaluation",
+        "DRY code evangelist",
+        "Directed a geographically dispersed team of web developers",
+        "Advocate micro service architecture. Do one thing simply and efficiently",
+        "Participate in upfront design meetings: brainstorming, gathering requirements, white-boarding",
+        "Interface with graphic designers and developers to streamline work and ensure delivery of design vision",
+        "Establish design and usability patterns for team",
+        "Address usability concerns early on in SDLC",
+        "Provided boilerplate Node.Js project that stood as the foundation for all new development",
+        "Led the charge (and won the war) for the strict support of evergreen browsers only",
+        "Wrapped development build process and deploys into a pretty little bow with Grunt/Gulp",
+        "Introduced html and css precompilers to improve both quality and remove bloat",
+        "Successfully delivered 3 core application redesigns with micro teams and equivalently small timelines"
+      ]
+    },
+    {
+      "company": "OEConnection",
+      "position": "Software Engineer III",
+      "website": "http://oeconnection.com",
+      "startDate": "2008-09-01",
+      "endDate": "2010-10-01",
+      "summary": "C#, ASP.Net web developer driving UI refresh of fordparts.com",
+      "highlights": [
+        "Manage proxy between services and front end",
+        "Provide asynchronous means of data refreshing",
+        "Core contributor to fordparts.com",
+        "Implemented several third party jQuery plugins to achieve a modern interface"
+      ]
+    },
+    {
+      "company": "OEConnection",
+      "position": "Database Developer",
+      "website": "http://oeconnection.com",
+      "startDate": "2005-09-01",
+      "endDate": "2008-09-01",
+      "summary": "Database development including scripting, stored procedure generation, data structure creation and optimization.",
+      "highlights": [
+        "Optimizing/creating the CRUD procedures for service developers",
+        "Providing a tsql style guide and enforced the use of it",
+        "Introduced patterns and practices that saved DBAs time and effort during deployments"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ohio Northern University",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "1999-09-01",
+      "endDate": "2004-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Public Repositories",
+      "publisher": "Github",
+      "releaseDate": "2012-07-31",
+      "website": "https://github.com/n8io",
+      "summary": "Tinkering and open source forks"
+    },
+    {
+      "name": "Public Gists",
+      "publisher": "Github",
+      "releaseDate": "2012-07-31",
+      "website": "https://gist.github.com/n8io",
+      "summary": "Safe keeping for important, but seldomly used scripts"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Expert",
+      "keywords": [
+        "Bower",
+        "Yeoman",
+        "AMD",
+        "jQuery",
+        "VanillaJs"
+      ]
+    },
+    {
+      "name": "AngularJs",
+      "level": "Expert",
+      "keywords": [
+        "SPA",
+        "ui-router",
+        "directives",
+        "controllers",
+        "factories",
+        "services",
+        "config",
+        "Angular 1.x"
+      ]
+    },
+    {
+      "name": "NodeJs",
+      "level": "Expert",
+      "keywords": [
+        "Express 3.x/4.x",
+        "MEAN",
+        "npm"
+      ]
+    },
+    {
+      "name": "RESTful services",
+      "level": "Expert",
+      "level": "",
+      "keywords": [
+        "JSON",
+        "JSONP",
+        "Swagger",
+        "API",
+        "AJAX"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Expert",
+      "level": "",
+      "keywords": [
+        "Jade",
+        "Semantic driven"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "Expert",
+      "level": "",
+      "keywords": [
+        "SASS",
+        "Less",
+        "Stylus",
+        "Transitions",
+        "Flexbox"
+      ]
+    },
+    {
+      "name": "Build Tools",
+      "level": "Expert",
+      "level": "",
+      "keywords": [
+        "Grunt",
+        "Gulp",
+        "Html to Js templating",
+        "CSS/Html Minification"
+      ]
+    },
+    {
+      "name": "OS Experience",
+      "level": "Intermediate",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Windows",
+        "*nix"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Contributing to open source projects",
+      "keywords": [
+        "ChanceJs",
+        "FantasyData API",
+        "Github"
+      ]
+    },
+    {
+      "name": "Continued education",
+      "keywords": [
+        "AngularJs 2.0",
+        "React",
+        "Docker",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Bleeding edge tech and tech gear",
+      "keywords": [
+        "Raspberry Pi",
+        "Android",
+        "Google Fanboy",
+        "Home automation"
+      ]
+    }
+  ],
+  "references": []
+}

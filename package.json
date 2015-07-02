@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Simple project to generate resume flavors",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume export clark.nate.slick.pdf --theme slick && resume export clark.nate.flat.pdf --theme flat && resume export clark.nate.elegant.pdf --theme elegant && resume export clark.nate.kwan.pdf --theme kwan && resume export clark.nate.modern.pdf --theme modern && resume export clark.nate.short.pdf --theme short",
+    "publish": "resume publish"
+  },
+  "author": "Nate Clark",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n8io/resume.git"
+  },
+  "dependencies": {
+    "resume-cli": "^0.4.3"
+  }
+}
