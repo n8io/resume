@@ -143,10 +143,24 @@
       "level": "",
       "keywords": [
         "JSON",
-        "JSONP",
         "Swagger",
-        "API",
-        "AJAX"
+        "AWS S3",
+        "Swipe",
+        "Paypal",
+        "Stormpath",
+        "Loggly"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "level": "",
+      "keywords": [
+        "MSSQL",
+        "MongoDb",
+        "Redis",
+        "RethinkDb",
+        "Firebase"
       ]
     },
     {
@@ -155,6 +169,7 @@
       "level": "",
       "keywords": [
         "Jade",
+        "Dust",
         "Semantic driven"
       ]
     },
@@ -190,7 +205,8 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "*nix"
+        "*nix",
+        "CLI"
       ]
     }
   ],
