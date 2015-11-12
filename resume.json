@@ -19,14 +19,19 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "Nate Clark",
+        "url": "https://www.linkedin.com/in/n8clark"
+      },
+      {
         "network": "Github",
         "username": "n8io",
         "url": "http://github.com/n8io"
       },
       {
-        "network": "LinkedIn",
-        "username": "Nate Clark",
-        "url": "https://www.linkedin.com/in/n8clark"
+        "name": "Twitter",
+        "username": "n8c14rk",
+        "url": "https://twitter.com/n8c14rk"
       }
     ]
   },
@@ -113,6 +118,13 @@
   "awards": [],
   "publications": [
     {
+      "name": "n8io",
+      "publisher": "Blog",
+      "releaseDate": "2015-08-09",
+      "website": "http://blog.n8io.com",
+      "summary": "Coding revelations for the efficient coder"
+    },
+    {
       "name": "fantasydata-api",
       "publisher": "NPM",
       "releaseDate": "2014-08-01",
@@ -170,6 +182,20 @@
         "Paypal",
         "Stormpath",
         "Loggly"
+      ]
+    },
+    {
+      "name": "Leveraging PaaS/SaaS",
+      "level": "Intermediate",
+      "level": "",
+      "keywords": [
+        "Heroku",
+        "DigitalOcean",
+        "Tutum",
+        "Docker Hub",
+        "CircleCI",
+        "TravisCI",
+        "bitHound"
       ]
     },
     {
@@ -256,6 +282,15 @@
   "languages": [],
   "interests": [
     {
+      "name": "Teaching others",
+      "keywords": [
+        "Coding patterns",
+        "JavaScript frameworks",
+        "AngularJs",
+        "NodeJs"
+      ]
+    },
+    {
       "name": "Contributing to open source projects",
       "keywords": [
         "ChanceJs",
@@ -266,12 +301,12 @@
     {
       "name": "What is Nate learning right now?",
       "keywords": [
-        "AngularJs 2.0",
+        "AngularJs 2",
         "React",
         "Docker",
-        "Ansible",
-        "Pusher",
-        "Snap.svg"
+        "TDD",
+        "PubNub",
+        "PaaS"
       ]
     },
     {
