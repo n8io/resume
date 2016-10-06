@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Nate Clark",
-    "label": "Full-stack JavaScript Jedi",
-    "picture": "https://www.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=108&r=PG&d=https:%2f%2fcdn-careers.sstatic.net%2fcareers%2fImg%2fdefault-user-gravatar-large.png%3fv%3d4c7dc2ac35fe",
+    "label": "Full-stack Javascript Jedi",
+    "picture": "https://secure.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=128&r=PG",
     "email": "n8@n8io.com",
+    "phone": "(216)202-5275",
     "phone": "",
-    "website": "n8io.com",
-    "website": "",
-    "summary": "A full-stack JavaScript developer/mentor with more than 10 years experience building scalable web applications.",
+    "website": "http://blog.n8io.com",
+    "summary": "A full-stack Javascript developer/mentor with more than 10 years experience building scalable web applications.",
     "location": {
       "address": "3670 White Oak Dr.",
       "address": "",
@@ -27,23 +27,34 @@
         "network": "Github",
         "username": "n8io",
         "url": "http://github.com/n8io"
-      },
-      {
-        "name": "Twitter",
-        "username": "n8c14rk",
-        "url": "https://twitter.com/n8c14rk"
       }
     ]
   },
   "work": [
     {
+      "company": "Twin Technologies",
+      "position": "Full-stack Developer / Team Lead / Remote worker",
+      "website": "http://twintechs.com",
+      "startDate": "2016-04-01",
+      "summary": "Responsible for a contractor team, leading the development of multiple React / NodeJs driven applications and services.",
+      "highlights": [
+        "Worked directly with Under Armour development teams on their ecommerce site",
+        "Contributed to a vast Javascript ecosystem and actively deployed changes to production through CI/CD pipepline",
+        "In addition to task work, also performed code reviews and assisted team with architecture decisions",
+        "Implemented Slack bots to automate status and pull request reports",
+        "Gaining familiarity with React patterns and practices on an already very familiar understanding of client/server js",
+        "Fully committed to remote work and the communication surrounding that environment"
+      ]
+    },
+    {
       "company": "IgnitionOne",
-      "position": "UX Architect & JavaScript Player/Coach",
+      "position": "UX Architect & Javascript Player/Coach",
       "website": "http://ignitionone.com",
       "startDate": "2010-10-01",
+      "endDate": "2016-04-01",
       "summary": "Responsible for several micro teams, leading the development of multiple Angular / NodeJs driven applications.",
       "highlights": [
-        "Strong background in JavaScript using the following frameworks AngularJs, NodeJs, ExpressJs, Bootstrap",
+        "Strong background in Javascript using the following frameworks AngularJs, NodeJs, ExpressJs, Bootstrap",
         "Implemented the conversion of legacy applications to Angular driven SPA",
         "Conducted several Angular and NodeJs bootcamps for junior developers. Prefer to show others how rather than telling them to figure it out.",
         "Provided boilerplate Node.Js project that stood as the foundation for all new development",
@@ -63,7 +74,7 @@
     },
     {
       "company": "OEConnection",
-      "position": "Software Engineer I → III",
+      "position": "Software Engineer I-III",
       "website": "http://oeconnection.com",
       "startDate": "2008-09-01",
       "endDate": "2010-10-01",
@@ -203,8 +214,9 @@
       "level": "Master",
       "level": "",
       "keywords": [
+        "Bluebird",
         "lodash",
-        "async",
+        "Angular",
         "moment",
         "hammer",
         "highcharts"
@@ -254,8 +266,9 @@
       "level": "Expert",
       "level": "",
       "keywords": [
-        "Grunt",
         "Gulp",
+        "Grunt",
+        "Babel",
         "Bower",
         "Yeoman",
         "Statics/CSS/Html Minification"
@@ -285,7 +298,7 @@
       "name": "Teaching others",
       "keywords": [
         "Coding patterns",
-        "JavaScript frameworks",
+        "Javascript frameworks",
         "AngularJs",
         "NodeJs"
       ]
@@ -301,12 +314,11 @@
     {
       "name": "What is Nate learning right now?",
       "keywords": [
-        "AngularJs 2",
         "React",
         "Docker",
+        "Kubernetes",
         "TDD",
-        "PubNub",
-        "PaaS"
+        "AWS"
       ]
     },
     {
