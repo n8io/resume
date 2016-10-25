@@ -38,11 +38,13 @@
       "startDate": "2016-04-01",
       "summary": "Responsible for a contractor team, leading the development of multiple React / NodeJs driven applications and services.",
       "highlights": [
-        "Worked directly with Under Armour development teams on their ecommerce site",
+        "Worked directly with Under Armour development teams on their ecommerce site, https://www.underarmour.com",
         "Contributed to a vast Javascript ecosystem and actively deployed changes to production through CI/CD pipepline",
         "In addition to task work, also performed code reviews and assisted team with architecture decisions",
         "Implemented Slack bots to automate status and pull request reports",
-        "Gaining familiarity with React patterns and practices on an already very familiar understanding of client/server js",
+        "Helped bring existing ecommerce site into WCAG / ADA compliance",
+        "Contributed to Apple Pay integration project",
+        "Gained familiarity with React patterns and practices on an already very familiar understanding of client/server js",
         "Fully committed to remote work and the communication surrounding that environment"
       ]
     },
@@ -107,7 +109,7 @@
       "endDate": "2006-07-01",
       "summary": "Small insurance consulting company DBA and WinForms developer.",
       "highlights": [
-        "Responsible for audit platform that lead to the being company purchased by Xerox in 2006",
+        "Responsible for audit platform that lead to the company being purchased by Xerox in 2006",
         "Data-mined and queried large data sets to find financial loss patterns",
         "Coupled database work with a WinForm application to visually display points of interest",
         "Integrated SSRS (SQL Server Reporting Services)"
@@ -129,11 +131,18 @@
   "awards": [],
   "publications": [
     {
-      "name": "n8io",
-      "publisher": "Blog",
-      "releaseDate": "2015-08-09",
-      "website": "http://blog.n8io.com",
-      "summary": "Coding revelations for the efficient coder"
+      "name": "eslint-config-n8io",
+      "publisher": "NPM",
+      "releaseDate": "2016-10-20",
+      "website": "https://www.npmjs.com/package/eslint-config-n8io",
+      "summary": "An opinionated eslint configuration for backend and frontend development"
+    },
+    {
+      "name": "tractor-pulls",
+      "publisher": "NPM",
+      "releaseDate": "2016-10-11",
+      "website": "https://github.com/n8io/tractor-pulls",
+      "summary": "A node app built to pull the open PRs for a given team (GitHub org)."
     },
     {
       "name": "fantasydata-api",
@@ -141,6 +150,13 @@
       "releaseDate": "2014-08-01",
       "website": "https://www.npmjs.com/package/fantasydata-api",
       "summary": "A clean and complete nodejs wrapper for the FantasyData.com api"
+    },
+    {
+      "name": "n8io",
+      "publisher": "Blog",
+      "releaseDate": "2015-08-09",
+      "website": "http://blog.n8io.com",
+      "summary": "Coding revelations for the efficient coder"
     },
     {
       "name": "Public Repositories",
@@ -173,6 +189,15 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Pure components",
+        "React router",
+        "Componentize all the things!"
+      ]
+    },
+    {
       "name": "NodeJs",
       "level": "Master",
       "keywords": [
@@ -200,6 +225,7 @@
       "level": "Intermediate",
       "level": "",
       "keywords": [
+        "AWS",
         "Heroku",
         "DigitalOcean",
         "Tutum",
@@ -210,16 +236,17 @@
       ]
     },
     {
-      "name": "I <3 these Js libraries",
-      "level": "Master",
+      "name": "Build Tools",
+      "level": "Expert",
       "level": "",
       "keywords": [
-        "Bluebird",
-        "lodash",
-        "Angular",
-        "moment",
-        "hammer",
-        "highcharts"
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bower",
+        "Webpack",
+        "Yeoman",
+        "Statics/CSS/Html Minification"
       ]
     },
     {
@@ -232,6 +259,21 @@
         "Redis",
         "RethinkDB",
         "Firebase"
+      ]
+    },
+    {
+      "name": "I <3 these Js libraries",
+      "level": "Master",
+      "level": "",
+      "keywords": [
+        "React",
+        "Angular",
+        "Bluebird",
+        "Eslint",
+        "lodash",
+        "moment",
+        "hammer",
+        "highcharts"
       ]
     },
     {
@@ -259,19 +301,6 @@
         "Stylus",
         "Transitions",
         "Flexbox"
-      ]
-    },
-    {
-      "name": "Build Tools",
-      "level": "Expert",
-      "level": "",
-      "keywords": [
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "Bower",
-        "Yeoman",
-        "Statics/CSS/Html Minification"
       ]
     },
     {
@@ -315,8 +344,7 @@
       "name": "What is Nate learning right now?",
       "keywords": [
         "React",
-        "Docker",
-        "Kubernetes",
+        "Webpack",
         "TDD",
         "AWS"
       ]
