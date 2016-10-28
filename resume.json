@@ -175,19 +175,31 @@
   ],
   "skills": [
     {
-      "name": "AngularJs",
+      "name": "Team Technical Leadership",
       "level": "Master",
       "keywords": [
-        "SPA",
-        "ui-router",
-        "directives",
-        "controllers",
-        "factories",
-        "services",
-        "config",
-        "Angular 1.x"
+        "Agile",
+        "SCRUM",
+        "Standups",
+        "Assumes positive intent",
+        "Be hungry",
+        "Be humble"
       ]
     },
+      {
+        "name": "AngularJs",
+        "level": "Master",
+        "keywords": [
+          "SPA",
+          "ui-router",
+          "directives",
+          "controllers",
+          "factories",
+          "services",
+          "config",
+          "Angular 1.x"
+        ]
+      },
     {
       "name": "React",
       "level": "Intermediate",
