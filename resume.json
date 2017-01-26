@@ -32,10 +32,24 @@
   },
   "work": [
     {
+      "company": "Waldo Photos",
+      "position": "Senior Software Engineer / Remote worker",
+      "website": "https://waldo.photos",
+      "startDate": "2016-12-01",
+      "endDate": "2017-01-01",
+      "summary": "Built out an ecommerce product with bleeding edge tools and frameworks",
+      "highlights": [
+        "Generated production ready ecommerce platform from mocked designs in a fast paced environment",
+        "Built with ❤️  using React on a NodeJs backend and bundled up with webpack and docker",
+        "Leveraged cloud based -- continuous integration to maintain code quality"
+      ]
+    },
+    {
       "company": "Twin Technologies",
       "position": "Full-stack Developer / Team Lead / Remote worker",
       "website": "http://twintechs.com",
       "startDate": "2016-04-01",
+      "endDate": "2016-10-01",
       "summary": "Responsible for a contractor team, leading the development of multiple React / NodeJs driven applications and services.",
       "highlights": [
         "Worked directly with Under Armour development teams on their ecommerce site, https://www.underarmour.com",
@@ -186,26 +200,13 @@
         "Be humble"
       ]
     },
-      {
-        "name": "AngularJs",
-        "level": "Master",
-        "keywords": [
-          "SPA",
-          "ui-router",
-          "directives",
-          "controllers",
-          "factories",
-          "services",
-          "config",
-          "Angular 1.x"
-        ]
-      },
     {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
         "Pure components",
         "React router",
+        "Redux",
         "Componentize all the things!"
       ]
     },
@@ -220,13 +221,27 @@
       ]
     },
     {
+      "name": "AngularJs",
+      "level": "Master",
+      "keywords": [
+        "SPA",
+        "ui-router",
+        "directives",
+        "controllers",
+        "factories",
+        "services",
+        "config",
+        "Angular 1.x"
+      ]
+    },
+    {
       "name": "RESTful services",
       "level": "Master",
       "keywords": [
         "JSON",
         "Swagger",
         "AWS S3",
-        "Swipe",
+        "Stripe",
         "Paypal",
         "Stormpath",
         "Loggly"
@@ -252,13 +267,10 @@
       "level": "Expert",
       "level": "",
       "keywords": [
+        "Webpack",
         "Gulp",
         "Grunt",
-        "Babel",
-        "Bower",
-        "Webpack",
-        "Yeoman",
-        "Statics/CSS/Html Minification"
+        "Babel"
       ]
     },
     {
