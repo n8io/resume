@@ -27,6 +27,11 @@
         "network": "Github",
         "username": "n8io",
         "url": "http://github.com/n8io"
+      },
+      {
+        "network": "Twitter",
+        "username": "n8c14rk",
+        "url": "http://twitter.com/n8c14rk"
       }
     ]
   },
@@ -40,8 +45,8 @@
       "summary": "Built out an ecommerce product with bleeding edge tools and frameworks",
       "highlights": [
         "Generated production ready ecommerce platform from mocked designs in a fast paced environment",
-        "Built with ❤️  using React on a NodeJs backend and bundled up with webpack and docker",
-        "Leveraged cloud based -- continuous integration to maintain code quality"
+        "Built with &hearts; using React on a NodeJs backend and bundled up with webpack and docker",
+        "Leveraged cloud based, continuous integration to maintain code quality"
       ]
     },
     {
