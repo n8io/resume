@@ -1,19 +1,20 @@
 {
   "basics": {
     "name": "Nate Clark",
-    "label": "Full-stack Javascript Jedi",
+    "label": "Full-stack Javascript Jedi / Nate of All Trades",
     "picture": "https://secure.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=128&r=PG",
     "email": "n8@n8io.com",
     "phone": "(216)202-5275",
     "phone": "",
     "website": "http://blog.n8io.com",
-    "summary": "A full-stack Javascript developer/mentor with more than 10 years experience building scalable web applications.",
+    "website": "",
+    "summary": "A full-stack engineer developer/mentor with more than 13 years experience building scalable web applications and a passion for learning.",
     "location": {
       "address": "3670 White Oak Dr.",
       "address": "",
       "postalCode": "44203",
       "postalCode": "",
-      "city": "Norton",
+      "city": "Akron",
       "countryCode": "US",
       "region": "Ohio"
     },
@@ -36,6 +37,45 @@
     ]
   },
   "work": [
+    {
+      "company": "Simple City",
+      "position": "Co-Founder / CTO / Lead Developer",
+      "website": "https://simplecityllc.com",
+      "startDate": "2017-06-01",
+      "summary": "Built a modern event managment system to streamline volunteer placement that is actively in use at several pro sports venues including FirstEnergy Stadium and Paul Brown Stadium",
+      "highlights": [
+        "From soup to nuts. Implemented entire AWS stack solution hosting an enterprise level application",
+        "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
+        "Static React UI hosted via CloudFront cdn",
+        "Learned and implemented GraphQL queries, mutations and deployed on AWS ECS",
+        "Docker all the things. Local dev, dev env, and prod all leverage the same docker containers",
+        "Implemented entire CI/CD pipeline"
+      ]
+    },
+    {
+      "company": "Silverback Insights",
+      "position": "Co-Founder / CTO / Lead Developer",
+      "website": "https://silverbackinsights.com",
+      "startDate": "2017-04-01",
+      "summary": "Built an ecommerce analytics platform to consume third party data and provide simplistic insights",
+      "highlights": [
+        "Took an idea and implemented a full AWS stack solution",
+        "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
+        "Integrated with Shopify api to build out a continuous data pipeline",
+        "Working purely for equity"
+      ]
+    },
+    {
+      "company": "Self-employed, freelance work",
+      "position": "Full-stack Engineer / Remote worker",
+      "startDate": "2017-01-01",
+      "endDate": "2017-04-01",
+      "summary": "Worked with seed investor to convert an original idea into a functioning online application",
+      "highlights": [
+        "Lead a small, but extremely competent team to wrangle product ideas into real requirements",
+        "Learned how to best communicate with the product team to manage expectations"
+      ]
+    },
     {
       "company": "Waldo Photos",
       "position": "Senior Software Engineer / Remote worker",
@@ -206,83 +246,70 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Pure components",
-        "React router",
-        "Redux",
-        "Componentize all the things!"
-      ]
-    },
-    {
       "name": "NodeJs",
       "level": "Master",
       "keywords": [
-        "ExpressJs 3.x/4.x",
+        "ExpressJs 4.x",
         "MEAN",
         "npm",
         "Bunyan"
       ]
     },
     {
-      "name": "AngularJs",
-      "level": "Master",
+      "name": "React",
+      "level": "Advanced",
       "keywords": [
-        "SPA",
-        "ui-router",
-        "directives",
-        "controllers",
-        "factories",
-        "services",
-        "config",
-        "Angular 1.x"
+        "Pure components",
+        "React router",
+        "Redux",
+        "Apollo"
       ]
     },
     {
-      "name": "RESTful services",
-      "level": "Master",
+      "name": "GraphQL",
+      "level": "Advanced",
       "keywords": [
-        "JSON",
-        "Swagger",
-        "AWS S3",
-        "Stripe",
-        "Paypal",
-        "Stormpath",
-        "Loggly"
+        "Fragments",
+        "Queries",
+        "Mutations",
+        "Apollo"
       ]
     },
     {
       "name": "Leveraging PaaS/SaaS",
-      "level": "Intermediate",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "AWS",
-        "Heroku",
-        "DigitalOcean",
-        "Tutum",
+        "Docker",
         "Docker Hub",
         "CircleCI",
-        "TravisCI",
-        "bitHound"
+        "TravisCI"
       ]
     },
     {
       "name": "Build Tools",
-      "level": "Expert",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "Webpack",
+        "Babel",
         "Gulp",
-        "Grunt",
-        "Babel"
+        "Grunt"
+      ]
+    },
+    {
+      "name": "HTML5 / UX / UI",
+      "level": "Master",
+      "keywords": [
+        "RWD",
+        "i18n",
+        "SEO"
       ]
     },
     {
       "name": "Databases",
-      "level": "Expert",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
+        "Postgres",
         "MSSQL",
         "MongoDB",
         "Redis",
@@ -291,56 +318,12 @@
       ]
     },
     {
-      "name": "I <3 these Js libraries",
+      "name": "OS Familiarity",
       "level": "Master",
-      "level": "",
       "keywords": [
-        "React",
-        "Angular",
-        "Bluebird",
-        "Eslint",
-        "lodash",
-        "moment",
-        "hammer",
-        "highcharts"
-      ]
-    },
-    {
-      "name": "HTML5",
-      "level": "Expert",
-      "level": "",
-      "keywords": [
-        "RWD",
-        "Jade",
-        "Dust",
-        "Semantic driven",
-        "i18n",
-        "SEO",
-        "CDN",
-        "OpenGraph"
-      ]
-    },
-    {
-      "name": "CSS3",
-      "level": "Expert",
-      "level": "",
-      "keywords": [
-        "SASS",
-        "Less",
-        "Stylus",
-        "Transitions",
-        "Flexbox"
-      ]
-    },
-    {
-      "name": "OS Experience",
-      "level": "Intermediate",
-      "level": "",
-      "keywords": [
-        "MacOS",
+        "MacOS/*nix",
         "Windows",
-        "*nix",
-        "CLI"
+        "SSH"
       ]
     }
   ],
@@ -373,9 +356,8 @@
       "name": "What is Nate learning right now?",
       "keywords": [
         "React",
-        "Webpack",
-        "TDD",
-        "AWS"
+        "AWS & AWS Lambda",
+        "TDD"
       ]
     },
     {
