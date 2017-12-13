@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nate Clark",
     "label": "Full-stack Javascript Jedi / Nate of All Trades",
-    "picture": "https://secure.gravatar.com/avatar/f0b1cbb3a96400250a609d12234c6d93?s=128&r=PG",
+    "picture": "http://www.gravatar.com/avatar/5e6be4ee4a6556cea4663b3f4f727b38.jpg?s=128&r=g",
     "email": "n8@n8io.com",
     "phone": "(216)202-5275",
     "phone": "",
@@ -42,14 +42,14 @@
       "position": "Co-Founder / CTO / Lead Developer",
       "website": "https://simplecityllc.com",
       "startDate": "2017-06-01",
-      "summary": "Built a modern event managment system to streamline volunteer placement that is actively in use at several pro sports venues including FirstEnergy Stadium and Paul Brown Stadium",
+      "summary": "Built a modern event managment system to streamline volunteer placement that is actively used by several pro sports venues including FirstEnergy Stadium, Paul Brown Stadium, and Quicken Loans Arena",
       "highlights": [
-        "From soup to nuts. Implemented entire AWS stack solution hosting an enterprise level application",
+        "From UI to DB. Implemented entire AWS stack solution hosting an enterprise level application",
         "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
-        "Static React UI hosted via CloudFront cdn",
+        "Static React/Apollo driven frontend hosted via CloudFront cdn",
         "Learned and implemented GraphQL queries, mutations and deployed on AWS ECS",
         "Docker all the things. Local dev, dev env, and prod all leverage the same docker containers",
-        "Implemented entire CI/CD pipeline"
+        "Implemented entire CI/CD pipeline with blue/green deployments"
       ]
     },
     {
@@ -61,8 +61,8 @@
       "highlights": [
         "Took an idea and implemented a full AWS stack solution",
         "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
-        "Integrated with Shopify api to build out a continuous data pipeline",
-        "Working purely for equity"
+        "Integrated with third party api (Shopify) to build out a continuous data pipeline",
+        "Worked purely for equity"
       ]
     },
     {
@@ -86,6 +86,7 @@
       "highlights": [
         "Generated production ready ecommerce platform from mocked designs in a fast paced environment",
         "Built with &hearts; using React on a NodeJs backend and bundled up with webpack and docker",
+        "Converted designer's dreams into a great UX",
         "Leveraged cloud based, continuous integration to maintain code quality"
       ]
     },
@@ -97,7 +98,7 @@
       "endDate": "2016-10-01",
       "summary": "Responsible for a contractor team, leading the development of multiple React / NodeJs driven applications and services.",
       "highlights": [
-        "Worked directly with Under Armour development teams on their ecommerce site, https://www.underarmour.com",
+        "Worked directly with Under Armour development teams on their ecommerce site, underarmour.com",
         "Contributed to a vast Javascript ecosystem and actively deployed changes to production through CI/CD pipepline",
         "In addition to task work, also performed code reviews and assisted team with architecture decisions",
         "Implemented Slack bots to automate status and pull request reports",
@@ -109,7 +110,7 @@
     },
     {
       "company": "IgnitionOne",
-      "position": "UX Architect & Javascript Player/Coach",
+      "position": "UX Architect & Javascript Player-Coach",
       "website": "http://ignitionone.com",
       "startDate": "2010-10-01",
       "endDate": "2016-04-01",
@@ -190,6 +191,13 @@
   "awards": [],
   "publications": [
     {
+      "name": "Public Repositories",
+      "publisher": "Github",
+      "releaseDate": "2012-07-31",
+      "website": "https://github.com/n8io",
+      "summary": "Tinkering and open source forks"
+    },
+    {
       "name": "eslint-config-n8io",
       "publisher": "NPM",
       "releaseDate": "2016-10-20",
@@ -209,20 +217,6 @@
       "releaseDate": "2014-08-01",
       "website": "https://www.npmjs.com/package/fantasydata-api",
       "summary": "A clean and complete nodejs wrapper for the FantasyData.com api"
-    },
-    {
-      "name": "n8io",
-      "publisher": "Blog",
-      "releaseDate": "2015-08-09",
-      "website": "http://blog.n8io.com",
-      "summary": "Coding revelations for the efficient coder"
-    },
-    {
-      "name": "Public Repositories",
-      "publisher": "Github",
-      "releaseDate": "2012-07-31",
-      "website": "https://github.com/n8io",
-      "summary": "Tinkering and open source forks"
     },
     {
       "name": "Public Gists",
@@ -249,20 +243,20 @@
       "name": "NodeJs",
       "level": "Master",
       "keywords": [
-        "ExpressJs 4.x",
+        "ExpressJs",
         "MEAN",
-        "npm",
-        "Bunyan"
+        "Puppeteer"
       ]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Pure components",
         "React router",
         "Redux",
-        "Apollo"
+        "Jest",
+        "w/Apollo"
       ]
     },
     {
@@ -272,42 +266,43 @@
         "Fragments",
         "Queries",
         "Mutations",
-        "Apollo"
+        "w/Apollo"
       ]
     },
     {
       "name": "Leveraging PaaS/SaaS",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "AWS",
         "Docker",
-        "Docker Hub",
-        "CircleCI",
-        "TravisCI"
+        "Terraform",
+        "CircleCI"
       ]
     },
     {
-      "name": "Build Tools",
+      "name": "Dev/Build Tools",
       "level": "Master",
       "keywords": [
-        "Webpack",
         "Babel",
+        "Yarn",
+        "Npm scripts",
         "Gulp",
-        "Grunt"
+        "Prettier"
       ]
     },
     {
       "name": "HTML5 / UX / UI",
       "level": "Master",
       "keywords": [
-        "RWD",
         "i18n",
-        "SEO"
+        "SEO",
+        "WCAG/ADA",
+        "RWD"
       ]
     },
     {
       "name": "Databases",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Postgres",
         "MSSQL",
@@ -323,7 +318,7 @@
       "keywords": [
         "MacOS/*nix",
         "Windows",
-        "SSH"
+        "Bash scripting"
       ]
     }
   ],
@@ -340,7 +335,9 @@
       "keywords": [
         "Coding patterns",
         "Javascript frameworks",
-        "AngularJs",
+        "React",
+        "Apollo",
+        "GraphQL",
         "NodeJs"
       ]
     },
@@ -355,8 +352,10 @@
     {
       "name": "What is Nate learning right now?",
       "keywords": [
+        "All things FP (functional programming)",
         "React",
         "AWS & AWS Lambda",
+        "GraphQL hosted on Lambda",
         "TDD"
       ]
     },

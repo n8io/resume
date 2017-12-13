@@ -17,6 +17,7 @@
     "url": "https://github.com/n8io/resume.git"
   },
   "dependencies": {
+    "jsonresume-theme-elegant": "^1.11.2",
     "resume-cli": "^0.4.19"
   }
 }
