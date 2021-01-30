@@ -1,18 +1,15 @@
 {
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Nate Clark",
     "label": "Full-stack Javascript Jedi / Nate of All Trades",
     "picture": "http://www.gravatar.com/avatar/5e6be4ee4a6556cea4663b3f4f727b38.jpg?s=128&r=g",
     "email": "n8@n8io.com",
-    "phone": "(216)202-5275",
     "phone": "",
-    "website": "http://blog.n8io.com",
-    "website": "",
-    "summary": "A full-stack engineer developer/mentor with more than 13 years experience building scalable web applications and a passion for learning.",
+    "website": "https://dev.to/n8io",
+    "summary": "A full-stack engineer developer/mentor/blogger with 15+ years experience building scalable web applications and a passion for learning.",
     "location": {
-      "address": "3670 White Oak Dr.",
       "address": "",
-      "postalCode": "44203",
       "postalCode": "",
       "city": "Akron",
       "countryCode": "US",
@@ -38,31 +35,38 @@
   },
   "work": [
     {
+      "company": "ZEAL Inc.",
+      "position": "Senior Full-stack Engineer, Consultant",
+      "website": "https://codingzeal.com",
+      "startDate": "2018-02-01",
+      "summary": "Help clients, big and a small achieve their goals in the most efficient way possible. Apply my experience through collaboration and shared learning.",
+      "highlights": [
+        "Promoter of functional programming. Trained several teams to use Ramda/Lodash fp",
+        "Built out a greenfield UX for a piece of proprietary hardware from conception to customer delivery",
+        "Implemented SSR using NextJs to provide a fast, SEO friendly user experience",
+        "Drove patterns and best practices at each client",
+        "Leveraged pairing as a tool to level up fellow developers",
+        "Shared strong opinions while being receptive to change",
+        "Enforced WCAG / ADA compliance as table stakes",
+        "Acted as a catalyst to positive change on every project",
+        "🤓: React, Node, GraphQL, NextJs, Razzle, Material UI, ExpressJs, Postgres, Docker, Ramda, Typescript"
+      ]
+    },
+    {
       "company": "Simple City",
       "position": "Co-Founder / CTO / Lead Developer",
       "website": "https://simplecityllc.com",
       "startDate": "2017-06-01",
       "summary": "Built a modern event managment system to streamline volunteer placement that is actively used by several pro sports venues including FirstEnergy Stadium, Paul Brown Stadium, and Quicken Loans Arena",
       "highlights": [
+        "Mastered React as a static frontend with a GraphQL backend",
         "From UI to DB. Implemented entire AWS stack solution hosting an enterprise level application",
         "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
         "Static React/Apollo driven frontend hosted via CloudFront cdn",
         "Learned and implemented GraphQL queries, mutations and deployed on AWS ECS",
         "Docker all the things. Local dev, dev env, and prod all leverage the same docker containers",
-        "Implemented entire CI/CD pipeline with blue/green deployments"
-      ]
-    },
-    {
-      "company": "Silverback Insights",
-      "position": "Co-Founder / CTO / Lead Developer",
-      "website": "https://silverbackinsights.com",
-      "startDate": "2017-04-01",
-      "summary": "Built an ecommerce analytics platform to consume third party data and provide simplistic insights",
-      "highlights": [
-        "Took an idea and implemented a full AWS stack solution",
-        "Harnessed the opportunity to leverage all the automation and code quality tools of my choosing",
-        "Integrated with third party api (Shopify) to build out a continuous data pipeline",
-        "Worked purely for equity"
+        "Implemented entire CI/CD pipeline with blue/green deployments",
+        "🤓: React, Node, GraphQL, AWS, CircleCi, Docker, Auth0"
       ]
     },
     {
@@ -73,21 +77,8 @@
       "summary": "Worked with seed investor to convert an original idea into a functioning online application",
       "highlights": [
         "Lead a small, but extremely competent team to wrangle product ideas into real requirements",
-        "Learned how to best communicate with the product team to manage expectations"
-      ]
-    },
-    {
-      "company": "Waldo Photos",
-      "position": "Senior Software Engineer / Remote worker",
-      "website": "https://waldo.photos",
-      "startDate": "2016-12-01",
-      "endDate": "2017-01-01",
-      "summary": "Built out an ecommerce product with bleeding edge tools and frameworks",
-      "highlights": [
-        "Generated production ready ecommerce platform from mocked designs in a fast paced environment",
-        "Built with &hearts; using React on a NodeJs backend and bundled up with webpack and docker",
-        "Converted designer's dreams into a great UX",
-        "Leveraged cloud based, continuous integration to maintain code quality"
+        "Learned how to best communicate with the product team to manage expectations",
+        "🤓: React, Node, MeteorJs, ExpressJs, Postgres"
       ]
     },
     {
@@ -98,14 +89,15 @@
       "endDate": "2016-10-01",
       "summary": "Responsible for a contractor team, leading the development of multiple React / NodeJs driven applications and services.",
       "highlights": [
+        "Helped bring existing ecommerce site into WCAG / ADA compliance",
         "Worked directly with Under Armour development teams on their ecommerce site, underarmour.com",
         "Contributed to a vast Javascript ecosystem and actively deployed changes to production through CI/CD pipepline",
         "In addition to task work, also performed code reviews and assisted team with architecture decisions",
         "Implemented Slack bots to automate status and pull request reports",
-        "Helped bring existing ecommerce site into WCAG / ADA compliance",
         "Contributed to Apple Pay integration project",
         "Gained familiarity with React patterns and practices on an already very familiar understanding of client/server js",
-        "Fully committed to remote work and the communication surrounding that environment"
+        "Fully committed to remote work and the communication surrounding that environment",
+        "🤓: React, Node, GraphQL"
       ]
     },
     {
@@ -131,7 +123,8 @@
         "Establish design and usability patterns for team",
         "Address usability concerns early on in SDLC",
         "Led the charge (and won the war) for the strict support of evergreen browsers only",
-        "Successfully delivered 3 core application redesigns with micro teams and equivalently small timelines"
+        "Successfully delivered 3 core application redesigns with micro teams and equivalently small timelines",
+        "🤓: Angular, AngularJs, NodeJs, ExpressJs, Twitter Bootstrap, Postgres"
       ]
     },
     {
@@ -145,7 +138,8 @@
         "Manage proxy between services and front end",
         "Provide asynchronous means of data refreshing",
         "Core contributor to fordparts.com",
-        "Implemented several third party jQuery plugins to achieve a modern interface"
+        "Implemented several third party jQuery plugins to achieve a modern interface",
+        "🤓: ASP.NET, MSSQL, Rest APIs, JQuery"
       ]
     },
     {
@@ -158,12 +152,13 @@
       "highlights": [
         "Optimizing/creating the CRUD procedures for service developers",
         "Providing a tsql style guide and enforced the use of it",
-        "Introduced patterns and practices that saved DBAs time and effort during deployments"
+        "Introduced patterns and practices that saved DBAs time and effort during deployments",
+        "🤓: MSSQL, Team Foundation Server"
       ]
     },
     {
-      "company": "Healthcare Consulting Benefits Review",
-      "position": "VB.Net and MSSQL Developer",
+      "company": "Healthcare Consulting Benefits Review (acquired by Xerox)",
+      "position": "Entry Level Developer",
       "website": "http://xerox.com",
       "startDate": "2004-09-01",
       "endDate": "2006-07-01",
@@ -172,7 +167,8 @@
         "Responsible for audit platform that lead to the company being purchased by Xerox in 2006",
         "Data-mined and queried large data sets to find financial loss patterns",
         "Coupled database work with a WinForm application to visually display points of interest",
-        "Integrated SSRS (SQL Server Reporting Services)"
+        "Integrated SSRS (SQL Server Reporting Services)",
+        "🤓: VB.Net, MSSQL"
       ]
     }
   ],
@@ -198,32 +194,32 @@
       "summary": "Tinkering and open source forks"
     },
     {
-      "name": "eslint-config-n8io",
-      "publisher": "NPM",
-      "releaseDate": "2016-10-20",
-      "website": "https://www.npmjs.com/package/eslint-config-n8io",
-      "summary": "An opinionated eslint configuration for backend and frontend development"
-    },
-    {
-      "name": "tractor-pulls",
-      "publisher": "NPM",
-      "releaseDate": "2016-10-11",
-      "website": "https://github.com/n8io/tractor-pulls",
-      "summary": "A node app built to pull the open PRs for a given team (GitHub org)."
-    },
-    {
-      "name": "fantasydata-api",
-      "publisher": "NPM",
-      "releaseDate": "2014-08-01",
-      "website": "https://www.npmjs.com/package/fantasydata-api",
-      "summary": "A clean and complete nodejs wrapper for the FantasyData.com api"
-    },
-    {
-      "name": "Public Gists",
+      "name": "boilerplate-monorepo",
       "publisher": "Github",
-      "releaseDate": "2012-07-31",
-      "website": "https://gist.github.com/n8io",
-      "summary": "Safe keeping for important, but seldomly used scripts"
+      "releaseDate": "2020-03-01",
+      "website": "https://github.com/n8io/boilerplate-monorepo",
+      "summary": "A monorepo setup for winning."
+    },
+    {
+      "name": "Developer Dark Arts (series)",
+      "publisher": "dev.to",
+      "releaseDate": "2020-05-20",
+      "website": "https://dev.to/n8io/developer-dark-arts-magic-strings-2ihn",
+      "summary": "A blog series dedicated to some anti-patterns and solutions for them"
+    },
+    {
+      "name": "Debug as Code",
+      "publisher": "dev.to",
+      "releaseDate": "2020-09-25",
+      "website": "https://dev.to/n8io/debug-as-code-15mn",
+      "summary": "How your debugging statements should be long lived in your implementations"
+    },
+    {
+      "name": "Public Repos",
+      "publisher": "Github",
+      "releaseDate": "2012-08-01",
+      "website": "https://github.com/n8io",
+      "summary": "All of my side projects, musings, and outside 9-5 work"
     }
   ],
   "skills": [
@@ -235,58 +231,74 @@
         "SCRUM",
         "Standups",
         "Assumes positive intent",
-        "Be hungry",
-        "Be humble"
-      ]
-    },
-    {
-      "name": "NodeJs",
-      "level": "Master",
-      "keywords": [
-        "ExpressJs",
-        "MEAN",
-        "Puppeteer"
+        "Hungry",
+        "Humble"
       ]
     },
     {
       "name": "React",
       "level": "Master",
       "keywords": [
-        "Pure components",
+        "Functional components",
+        "Hooks",
+        "Suspense",
+        "Lazy Loading",
+        "Jest",
         "React router",
         "Redux",
-        "Jest",
-        "w/Apollo"
+        "Apollo"
       ]
     },
     {
       "name": "GraphQL",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
+        "Schema stiching",
         "Fragments",
         "Queries",
         "Mutations",
-        "w/Apollo"
+        "Apollo",
+        "React Query"
       ]
+    },
+    {
+      "name": "NodeJs",
+      "level": "Master",
+      "keywords": ["NextJs", "Express", "Remix"]
     },
     {
       "name": "Leveraging PaaS/SaaS",
       "level": "Master",
       "keywords": [
         "AWS",
+        "CloudFlare",
+        "Serverless",
         "Docker",
         "Terraform",
-        "CircleCI"
+        "Heroku",
+        "Digital Ocean"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Master",
+      "keywords": [
+        "Github Actions",
+        "CircleCI",
+        "BitBucket Pipelines",
+        "Digital Ocean",
+        "Heroku"
       ]
     },
     {
       "name": "Dev/Build Tools",
       "level": "Master",
       "keywords": [
+        "Yarn/Npm",
+        "Docker",
+        "Webpack",
         "Babel",
-        "Yarn",
-        "Npm scripts",
-        "Gulp",
+        "EsLink",
         "Prettier"
       ]
     },
@@ -294,32 +306,24 @@
       "name": "HTML5 / UX / UI",
       "level": "Master",
       "keywords": [
+        "WCAG/ADA",
         "i18n",
         "SEO",
-        "WCAG/ADA",
-        "RWD"
+        "CSS Grid",
+        "Tailwind CSS",
+        "Material UI",
+        "Twitter Bootstrap"
       ]
     },
     {
-      "name": "Databases",
+      "name": "Database/Datastore",
       "level": "Master",
-      "keywords": [
-        "Postgres",
-        "MSSQL",
-        "MongoDB",
-        "Redis",
-        "RethinkDB",
-        "Firebase"
-      ]
+      "keywords": ["Postgres", "MSSQL", "MongoDB", "Redis", "Firebase"]
     },
     {
       "name": "OS Familiarity",
       "level": "Master",
-      "keywords": [
-        "MacOS/*nix",
-        "Windows",
-        "Bash scripting"
-      ]
+      "keywords": ["MacOS/*nix", "Windows", "Shell scripting"]
     }
   ],
   "languages": [
@@ -334,6 +338,9 @@
       "name": "Teaching others",
       "keywords": [
         "Coding patterns",
+        "Strong opinions",
+        "Humility",
+        "Readability is key",
         "Javascript frameworks",
         "React",
         "Apollo",
@@ -344,28 +351,33 @@
     {
       "name": "Contributing to open source projects",
       "keywords": [
+        "@n8io/boilerplate-monorepo",
+        "@n8io/jelly-beans",
+        "100+ original, public Github repos",
         "ChanceJs",
-        "FantasyData API",
-        "Github"
+        "FantasyData API"
       ]
     },
     {
       "name": "What is Nate learning right now?",
       "keywords": [
-        "All things FP (functional programming)",
+        "Functional programming",
+        "Remix",
         "React",
-        "AWS & AWS Lambda",
-        "GraphQL hosted on Lambda",
-        "TDD"
+        "Serverless",
+        "CloudFlare Workers",
+        "Ephemeral Deploys",
+        "FaunaDb",
+        "Typescript"
       ]
     },
     {
-      "name": "Bleeding edge tech and tech gear",
+      "name": "Other nerding",
       "keywords": [
+        "Home automation",
         "Raspberry Pi",
-        "Android",
-        "Google Fanboy",
-        "Home automation"
+        "Aquaponics",
+        "Tesla Fanboy"
       ]
     }
   ],
