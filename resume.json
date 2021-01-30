@@ -49,7 +49,20 @@
         "Shared strong opinions while being receptive to change",
         "Enforced WCAG / ADA compliance as table stakes",
         "Acted as a catalyst to positive change on every project",
-        "🤓: React, Node, GraphQL, NextJs, Razzle, Material UI, ExpressJs, Postgres, Docker, Ramda, Typescript"
+        "🤓 React, Node, GraphQL, NextJs, Razzle, Material UI, ExpressJs, Postgres, Docker, Ramda, Typescript"
+      ]
+    },
+    {
+      "company": "LEARN Academy",
+      "position": "Mentor",
+      "website": "https://www.learnacademy.org",
+      "startDate": "2020-12-01",
+      "summary": "Prepare bootcamp students for their first jobs in a software engineering career",
+      "highlights": [
+        "Advised student cohort during capstone project",
+        "Provided feedback and instruction through pairing",
+        "Perform code reviews",
+        "🤓 React, Javascript, Html"
       ]
     },
     {
@@ -66,7 +79,7 @@
         "Learned and implemented GraphQL queries, mutations and deployed on AWS ECS",
         "Docker all the things. Local dev, dev env, and prod all leverage the same docker containers",
         "Implemented entire CI/CD pipeline with blue/green deployments",
-        "🤓: React, Node, GraphQL, AWS, CircleCi, Docker, Auth0"
+        "🤓 React, Node, GraphQL, AWS, CircleCi, Docker, Auth0"
       ]
     },
     {
@@ -78,7 +91,7 @@
       "highlights": [
         "Lead a small, but extremely competent team to wrangle product ideas into real requirements",
         "Learned how to best communicate with the product team to manage expectations",
-        "🤓: React, Node, MeteorJs, ExpressJs, Postgres"
+        "🤓 React, Node, MeteorJs, ExpressJs, Postgres"
       ]
     },
     {
@@ -97,7 +110,7 @@
         "Contributed to Apple Pay integration project",
         "Gained familiarity with React patterns and practices on an already very familiar understanding of client/server js",
         "Fully committed to remote work and the communication surrounding that environment",
-        "🤓: React, Node, GraphQL"
+        "🤓 React, Node, GraphQL"
       ]
     },
     {
@@ -124,7 +137,7 @@
         "Address usability concerns early on in SDLC",
         "Led the charge (and won the war) for the strict support of evergreen browsers only",
         "Successfully delivered 3 core application redesigns with micro teams and equivalently small timelines",
-        "🤓: Angular, AngularJs, NodeJs, ExpressJs, Twitter Bootstrap, Postgres"
+        "🤓 Angular, AngularJs, NodeJs, ExpressJs, Twitter Bootstrap, Postgres"
       ]
     },
     {
@@ -139,7 +152,7 @@
         "Provide asynchronous means of data refreshing",
         "Core contributor to fordparts.com",
         "Implemented several third party jQuery plugins to achieve a modern interface",
-        "🤓: ASP.NET, MSSQL, Rest APIs, JQuery"
+        "🤓 ASP.NET, MSSQL, Rest APIs, JQuery"
       ]
     },
     {
@@ -153,7 +166,7 @@
         "Optimizing/creating the CRUD procedures for service developers",
         "Providing a tsql style guide and enforced the use of it",
         "Introduced patterns and practices that saved DBAs time and effort during deployments",
-        "🤓: MSSQL, Team Foundation Server"
+        "🤓 MSSQL, Team Foundation Server"
       ]
     },
     {
@@ -168,7 +181,7 @@
         "Data-mined and queried large data sets to find financial loss patterns",
         "Coupled database work with a WinForm application to visually display points of interest",
         "Integrated SSRS (SQL Server Reporting Services)",
-        "🤓: VB.Net, MSSQL"
+        "🤓 VB.Net, MSSQL"
       ]
     }
   ],
