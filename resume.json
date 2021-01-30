@@ -42,6 +42,7 @@
       "summary": "Help clients, big and a small achieve their goals in the most efficient way possible. Apply my experience through collaboration and shared learning.",
       "highlights": [
         "Promoter of functional programming. Trained several teams to use Ramda/Lodash fp",
+        "Manage numerous small teams in a player/coach capacity",
         "Built out a greenfield UX for a piece of proprietary hardware from conception to customer delivery",
         "Implemented SSR using NextJs to provide a fast, SEO friendly user experience",
         "Drove patterns and best practices at each client",
@@ -86,7 +87,7 @@
       "company": "Self-employed, freelance work",
       "position": "Full-stack Engineer / Remote worker",
       "startDate": "2017-01-01",
-      "endDate": "2017-04-01",
+      "endDate": "2016-10-01",
       "summary": "Worked with seed investor to convert an original idea into a functioning online application",
       "highlights": [
         "Lead a small, but extremely competent team to wrangle product ideas into real requirements",
@@ -104,6 +105,7 @@
       "highlights": [
         "Helped bring existing ecommerce site into WCAG / ADA compliance",
         "Worked directly with Under Armour development teams on their ecommerce site, underarmour.com",
+        "Successfully managed a team across multiple timezones",
         "Contributed to a vast Javascript ecosystem and actively deployed changes to production through CI/CD pipepline",
         "In addition to task work, also performed code reviews and assisted team with architecture decisions",
         "Implemented Slack bots to automate status and pull request reports",
