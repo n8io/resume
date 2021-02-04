@@ -2,7 +2,7 @@
   "meta": { "theme": "elegant" },
   "basics": {
     "name": "Nate Clark",
-    "label": "Full-stack Javascript Jedi / Nate of All Trades",
+    "label": "Full-stack Jedi",
     "picture": "http://www.gravatar.com/avatar/5e6be4ee4a6556cea4663b3f4f727b38.jpg?s=128&r=g",
     "email": "n8@n8io.com",
     "phone": "",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "company": "LEARN Academy",
+      "company": "Software Residency at LEARN Academy",
       "position": "Mentor",
       "website": "https://www.learnacademy.org",
       "startDate": "2020-12-01",
@@ -97,7 +97,7 @@
     },
     {
       "company": "Twin Technologies",
-      "position": "Full-stack Developer / Team Lead / Remote worker",
+      "position": "Full-stack Developer / Team Lead",
       "website": "http://twintechs.com",
       "startDate": "2016-04-01",
       "endDate": "2016-10-01",
@@ -154,7 +154,7 @@
         "Provide asynchronous means of data refreshing",
         "Core contributor to fordparts.com",
         "Implemented several third party jQuery plugins to achieve a modern interface",
-        "🤓 ASP.NET, MSSQL, Rest APIs, JQuery"
+        "🤓 C#, ASP.NET, MSSQL, Rest APIs, JQuery"
       ]
     },
     {
@@ -219,7 +219,7 @@
       "name": "Developer Dark Arts (series)",
       "publisher": "dev.to",
       "releaseDate": "2020-05-20",
-      "website": "https://dev.to/n8io/developer-dark-arts-magic-strings-2ihn",
+      "website": "https://dev.to/n8io/series/11145",
       "summary": "A blog series dedicated to some anti-patterns and solutions for them"
     },
     {
@@ -244,8 +244,8 @@
       "keywords": [
         "Agile",
         "SCRUM",
-        "Standups",
-        "Assumes positive intent",
+        "Fully Remote Capable",
+        "Results Driven Approach",
         "Hungry",
         "Humble"
       ]
@@ -265,59 +265,6 @@
       ]
     },
     {
-      "name": "GraphQL",
-      "level": "Master",
-      "keywords": [
-        "Schema stiching",
-        "Fragments",
-        "Queries",
-        "Mutations",
-        "Apollo",
-        "React Query"
-      ]
-    },
-    {
-      "name": "NodeJs",
-      "level": "Master",
-      "keywords": ["NextJs", "Express", "Remix"]
-    },
-    {
-      "name": "Leveraging PaaS/SaaS",
-      "level": "Master",
-      "keywords": [
-        "AWS",
-        "CloudFlare",
-        "Serverless",
-        "Docker",
-        "Terraform",
-        "Heroku",
-        "Digital Ocean"
-      ]
-    },
-    {
-      "name": "CI/CD",
-      "level": "Master",
-      "keywords": [
-        "Github Actions",
-        "CircleCI",
-        "BitBucket Pipelines",
-        "Digital Ocean",
-        "Heroku"
-      ]
-    },
-    {
-      "name": "Dev/Build Tools",
-      "level": "Master",
-      "keywords": [
-        "Yarn/Npm",
-        "Docker",
-        "Webpack",
-        "Babel",
-        "EsLink",
-        "Prettier"
-      ]
-    },
-    {
       "name": "HTML5 / UX / UI",
       "level": "Master",
       "keywords": [
@@ -333,18 +280,75 @@
     {
       "name": "Database/Datastore",
       "level": "Master",
-      "keywords": ["Postgres", "MSSQL", "MongoDB", "Redis", "Firebase"]
+      "keywords": ["Postgres", "MSSQL", "MongoDB", "Redis"]
     },
     {
-      "name": "OS Familiarity",
+      "name": "NodeJs",
       "level": "Master",
-      "keywords": ["MacOS/*nix", "Windows", "Shell scripting"]
-    }
-  ],
-  "languages": [
+      "keywords": ["Express", "Hygen", "Codegen", "Cli Tooling"]
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "GraphQL",
+      "level": "Advanced",
+      "keywords": [
+        "Schema stiching",
+        "Fragments",
+        "Queries",
+        "Mutations",
+        "Apollo"
+      ]
+    },
+    {
+      "name": "Leveraging PaaS/SaaS",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Serverless",
+        "Docker",
+        "Terraform",
+        "Heroku",
+        "Digital Ocean"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Advanced",
+      "keywords": [
+        "Github Actions",
+        "CircleCI",
+        "BitBucket Pipelines",
+        "Digital Ocean",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "Dev/Build Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Yarn/Npm",
+        "Docker",
+        "Webpack",
+        "Babel",
+        "EsLink",
+        "Prettier"
+      ]
+    },
+    {
+      "name": "Recent Learnings",
+      "level": "Intermediate",
+      "keywords": [
+        "CloudFlare Offerings",
+        "Kubernetes",
+        "NextJs",
+        "Typescript",
+        "React Query"
+      ]
+    },
+    {
+      "name": "Hello Worlds",
+      "level": "Beginner",
+      "keywords": ["Firebase", "FaunaDb", "Google Cloud"]
     }
   ],
   "languages": [],

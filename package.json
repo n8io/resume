@@ -8,7 +8,8 @@
     "clean": "rm -rf *.pdf *.html node_modules/",
     "login": "resume login",
     "publish": "resume publish -t Elegant",
-    "start": "resume export -t Elegant clark.nate.elegant.html # clark.nate.slick.pdf --theme slick && resume export clark.nate.flat.pdf --theme flat && resume export clark.nate.elegant.pdf --theme elegant && resume export clark.nate.kwan.pdf --theme kwan && resume export clark.nate.modern.pdf --theme modern && resume export clark.nate.short.pdf --theme short"
+    "start": "resume export -t Elegant clark.nate.elegant.pdf # clark.nate.slick.pdf --theme slick && resume export clark.nate.flat.pdf --theme flat && resume export clark.nate.elegant.pdf --theme elegant && resume export clark.nate.kwan.pdf --theme kwan && resume export clark.nate.modern.pdf --theme modern && resume export clark.nate.short.pdf --theme short",
+    "serve": "resume serve"
   },
   "author": "Nate Clark",
   "license": "ISC",
@@ -18,6 +19,6 @@
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.11.2",
-    "resume-cli": "^0.4.19"
+    "resume-cli": "^3.0.4"
   }
 }
